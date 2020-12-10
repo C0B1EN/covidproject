@@ -1,0 +1,29 @@
+body {
+    height: 2600px;
+}
+.nna-imgbox img {
+    border-radius: 40%;
+}
+.nna-iconbox {
+    padding-right: 15px;
+    color: #6F42C1;
+    font-size: 14px;
+    margin-top: 20px;
+}
+.nna-header {
+    color: #6F42C1;
+    font-size: 16px;
+    margin-top: 10px;
+}
+.nna-par {
+    color: #808080;
+    display: inline-block;
+    font-size: 16px;
+    margin-top: 15px;
+    width: 300px;
+}
+.nna-fpar {
+    color: #8a8a8a;
+    font-weight: 600;
+    margin-top: 20px;
+}

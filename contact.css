@@ -1,0 +1,95 @@
+.contact{
+    height: 600px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+
+}
+.contact-content-one {
+    width: 30%;
+    height: 500px;
+}
+.contact-content-two {
+    width: 25%;
+    height: 500px;
+    margin-left: 5%;
+}
+.main-footerpone {
+    margin-top: 50px;
+}
+.quick-subcont span {
+    margin-left: 20px;
+}
+.contact-fake {
+    color: #808080;
+}
+.quick-subcont {
+    margin-top: 20px;
+}
+.quick-subcont i {
+    color: #6F42C1;
+}
+.quick-subcont a {
+    text-decoration: none;
+    margin-left: 20px;
+}
+.full-name {
+    display: flex;
+    justify-content: space-between;
+}
+.surname-bar, .name-bar {
+    width: 45%;
+}
+.name-bar div, .surname-bar div {
+    color: #b5b5b5;
+    margin-top: -20px;
+}
+.name-bar div, .surname-bar div, .contact-info div {
+    padding-top: 20px;
+    color: #b5b5b5;
+}
+
+.full-name input, .name-bar input, .surname-bar input {
+    width: 100%;
+    height: 40px;
+    border-radius: 5px;
+}
+.contact-content-one input, .contact-info textarea{
+    border: 1px solid #c5c3c3;
+
+}
+.message-text {
+    margin-top: -20px;
+}
+.name-bar input, .surname-bar input, .contact-info input, .message textarea {
+    margin-top: 10px;
+}
+.contact-info input{
+    width: 100%;
+    height: 40px;
+
+    border-radius: 5px;
+}
+.contact-info textarea {
+    width: 100%;
+    height: 200px;
+    max-width: 100%;
+    border-radius: 5px;
+}
+.contact-btn-box {
+    margin-top: 30px;
+}
+.contact-btn-box button {
+    background-color: #6F42C1;
+    height: 40px;
+    width: 170px;
+    border-radius: 20px;
+    border: none;
+    outline: none;
+    color: white;
+    cursor: pointer;
+    text-transform: uppercase;
+}
+
+
